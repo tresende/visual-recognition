@@ -9,4 +9,4 @@ This code classifies the images using [IBM Watson Visual Recognition V3](https:/
 
 1 - Clone this repository<br />
 2 - Run `npm install`<br />
-3 - Start the app `node app.js`<br />
+3 - Start the app `node index.js`<br />
